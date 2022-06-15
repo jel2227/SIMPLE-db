@@ -1,0 +1,21 @@
+Source,Spectrum,regime,telescope,instrument,mode,observation_date,wavelength_units,flux_units,wavelength_order,spectrum comments ,spectrum reference,discovery reference
+UGCS J083748.00+201448.5,https://bdnyc.s3.amazonaws.com/XShooter/J08374800%2B2014485.txt,em.IR.NIR,ESO VLT,XShooter,Echelle,"Jan 29, 2017",nm,erg cm-2 s-1 micron-1,blank,,Manj20,Boud10
+2MASS J08370215+1952074,https://bdnyc.s3.amazonaws.com/XShooter/J08370215%2B1952074.txt,em.IR.NIR,ESO VLT,XShooter,Echelle,"Jan 28, 2017",nm,erg cm-2 s-1 micron-1,,,Manj20,Pinf97
+UGCS J083654.60+195415.7,https://bdnyc.s3.amazonaws.com/XShooter/J08365460%2B1954157.txt,em.IR.NIR,ESO VLT,XShooter,Echelle,"Jan 23, 2017",nm,erg cm-2 s-1 micron-1,,,Manj20,Pinf97
+2MASS J08410852+1954018,https://bdnyc.s3.amazonaws.com/XShooter/J08410852%2B1954018.txt,em.IR.NIR,ESO VLT,XShooter,Echelle,"Jan 23, 2017",nm,erg cm-2 s-1 micron-1,,,Manj20,Pinf97
+2MASS J08370450+2016033,https://bdnyc.s3.amazonaws.com/XShooter/J08370450%2B2016033.txt,em.IR.NIR,ESO VLT,XShooter,Echelle,"Jan 1, 2017",nm,erg cm-2 s-1 micron-1,,,Manj20,Boud12
+UGCS J084510.65+214817.0,https://bdnyc.s3.amazonaws.com/XShooter/J08451065%2B2148170.txt,em.IR.NIR,ESO VLT,XShooter,Echelle,"Jan 2, 2017",nm,erg cm-2 s-1 micron-1,,,Manj20,
+2MASS J03484468+2437237,https://bdnyc.s3.amazonaws.com/XShooter/J03484469%2B2437236.txt,em.IR.NIR,ESO VLT,XShooter,Echelle,"Nov 30, 2016",nm,erg cm-2 s-1 micron-1,,,Manj20,Bouv98
+2MASS J03491511+2436226,https://bdnyc.s3.amazonaws.com/XShooter/J03491512%2B2436225.txt,em.IR.NIR,ESO VLT,XShooter,Echelle,"Nov 27, 2016",nm,erg cm-2 s-1 micron-1,,,Manj20,Mart98.775
+2MASS J03512555+2345213,https://bdnyc.s3.amazonaws.com/XShooter/J03512557%2B2345214.txt,em.IR.NIR,ESO VLT,XShooter,Echelle,"Nov 26, 2016",nm,erg cm-2 s-1 micron-1,,,Manj20,Rebo96
+2MASS J03443514+2513429,https://bdnyc.s3.amazonaws.com/XShooter/J03443516%2B2513429.txt,em.IR.NIR,ESO VLT,XShooter,Echelle,"Nov 20, 2016",nm,erg cm-2 s-1 micron-1,,,Manj20,Bouv98
+Cl* Melotte 22 NPNPL 2,https://bdnyc.s3.amazonaws.com/XShooter/J03463425%2B2350036.txt,em.IR.NIR,ESO VLT,XShooter,Echelle,"Nov 11, 2016",nm,erg cm-2 s-1 micron-1,,,Manj20,Naga03
+Cl* Melotte 22 CALAR 10,https://bdnyc.s3.amazonaws.com/XShooter/J03461406%2B2321565.txt,em.IR.NIR,ESO VLT,XShooter,Echelle,"Nov 3, 2016",nm,erg cm-2 s-1 micron-1,,,Manj20,Bell12
+Cl* Melotte 22 BRB 21,https://bdnyc.s3.amazonaws.com/XShooter/J03541027%2B2341402.txt,em.IR.NIR,ESO VLT,XShooter,Echelle,"Nov 3, 2016",nm,erg cm-2 s-1 micron-1,,,Manj20,Biha06
+2MASS J15591135–2338002,https://bdnyc.s3.amazonaws.com/XShooter/J15591135-2338002.txt,em.IR.NIR,ESO VLT,XShooter,Echelle,"Apr 25, 2014",nm,erg cm-2 s-1 micron-1,,,Manj20,Ardi00
+2MASS J16060391–2056443,https://bdnyc.s3.amazonaws.com/XShooter/J16060391-2056443.txt,em.IR.NIR,ESO VLT,XShooter,Echelle,"Apr 08, 2014",nm,erg cm-2 s-1 micron-1,,,Manj20,Mart04.226
+2MASS J16060629–2335133,https://bdnyc.s3.amazonaws.com/XShooter/J16060629-2335133.txt,em.IR.NIR,ESO VLT,XShooter,Echelle,"Jun 25, 2014",nm,erg cm-2 s-1 micron-1,,,Manj20,
+2MASS J11085497–7632410,https://bdnyc.s3.amazonaws.com/XShooter/2M11085497-763240.txt,em.IR.NIR,ESO VLT,XShooter,Echelle,"May 5, 2015",nm,erg cm-2 s-1 micron-1,,,Manj20,Pers00
+2MASS J11123099–7653342,https://bdnyc.s3.amazonaws.com/XShooter/J11123099–7653342.txt,em.IR.NIR,ESO VLT,XShooter,Echelle,"Jan 14, 2017",nm,erg cm-2 s-1 micron-1,,,Manj20,Lópe04
+2MASS J11074656-7615174,https://bdnyc.s3.amazonaws.com/XShooter/2MJ11074656-7615174.txt,em.IR.NIR,ESO VLT,XShooter,Echelle,"Apr 3, 2015",nm,erg cm-2 s-1 micron-1,,,Manj20,Góme01
+2MASS J11062554-7633418,https://bdnyc.s3.amazonaws.com/XShooter/2MJ11062554-7633418.txt,em.IR.NIR,ESO VLT,XShooter,Echelle,"Apr 5, 2015",nm,erg cm-2 s-1 micron-1,,,Manj20,Come04
