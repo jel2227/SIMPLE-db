@@ -24,3 +24,4 @@ for file_name in files:
     plt.ylabel('flux ')
     plt.title(name)
 
+    plt.show()
