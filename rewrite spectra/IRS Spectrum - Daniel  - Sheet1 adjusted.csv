@@ -1,114 +1,114 @@
 Source,Spectrum,regime,telescope,instrument,mode,observation_date,wavelength_units,flux_units,wavelength_order,spectrum comments,spectrum reference,discovery reference,start time,stop time,exposure time
-2MASS J00001354+2554180,https://bdnyc.s3.amazonaws.com/IRS/0000%2B2554_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-12-18,um,Jy,NULL,"SL2,SL1, There are multiple observation dates",Suár22,,12/18/2005 0:00:00,1/25/2006 0:00:00,20640
-2MASS J00043484-4044058,https://bdnyc.s3.amazonaws.com/IRS/0004-4044_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2009-01-15,um,Jy,,"SL2,SL1",Suár22,,1/15/2009 0:00:00,1/15/2009 0:00:00,300
-DY Psc,https://bdnyc.s3.amazonaws.com/IRS/0024-0158_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-01-04,um,Jy,,"SL2,SL1,LL2",Suár22,,1/4/2004 0:00:00,1/4/2004 0:00:00,2520
-2MASS J00250365+4759191,https://bdnyc.s3.amazonaws.com/IRS/0025%2B4759_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2009-03-07,um,Jy,,"SL2,SL1",Suár22,,3/7/2009 0:00:00,3/7/2009 0:00:00,2760
-CFBDS J003402-005205,https://bdnyc.s3.amazonaws.com/IRS/0034-0052_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2008-01-15,um,Jy,,SL1,Suár22,,1/15/2008 0:00:00,1/15/2008 0:00:00,30720
-2MASS J00345157+0523050,https://bdnyc.s3.amazonaws.com/IRS/0034%2B0523_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2006-01-19,um,Jy,,"SL2,SL1",Suár22,,1/19/2006 0:00:00,1/19/2006 0:00:00,14400
-2MASS J00361617+1821104,https://bdnyc.s3.amazonaws.com/IRS/0036%2B1821_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-01-06,um,Jy,,"SL2,SL1,LL2,LL1",Suár22,,1/6/2004 0:00:00,1/6/2004 0:00:00,2400
-CFBDS J005910.90-011401.3,https://bdnyc.s3.amazonaws.com/IRS/0059-0114_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2009-01-13,um,Jy,,SL1,Suár22,,1/13/2009 0:00:00,1/13/2009 0:00:00,14280
-SIMP J013656.5+093347.3,https://bdnyc.s3.amazonaws.com/IRS/0136%2B0933_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2008-09-01,um,Jy,,"SL2,SL1",Suár22,,9/1/2008 0:00:00,9/1/2008 0:00:00,720
-2MASS J01390120−1757026,https://bdnyc.s3.amazonaws.com/IRS/0139-1757_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-07-10,um,Jy,,"SL2,SL1,LL2,LL1",Suár22,,7/10/2005 0:00:00,7/10/2005 0:00:00,96
-2MASS J01443536-0716142,https://bdnyc.s3.amazonaws.com/IRS/0144-0716_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-01-15,um,Jy,,"SL2,SL1",Suár22,,1/15/2005 0:00:00,1/15/2005 0:00:00,1440
-2MASS J02511490-0352459,https://bdnyc.s3.amazonaws.com/IRS/0251-0352_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-01-14,um,Jy,,"SL2,SL1",Suár22,,1/14/2005 0:00:00,1/14/2005 0:00:00,720
-2MASS J02550357-4700509,https://bdnyc.s3.amazonaws.com/IRS/0255-4700_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-01-07,um,Jy,,"SL2,SL1,LL2,LL1",Suár22,,1/7/2004 0:00:00,1/7/2004 0:00:00,11040
-2MASS J03552337+1133437,https://bdnyc.s3.amazonaws.com/IRS/0355%2B1133_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2008-10-10,um,Jy,,"SL2,SL1",Suár22,,10/10/2008 0:00:00,10/10/2008 0:00:00,5760
-2MASS J04151954-0935066,https://bdnyc.s3.amazonaws.com/IRS/0415-0935_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-09-06,um,Jy,,"SL2,SL1, There are multiple observation dates",Suár22,,9/6/2005 0:00:00,9/12/2005 0:00:00,34560
-2MASS J04234858−0414035,https://bdnyc.s3.amazonaws.com/IRS/0423-0414_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-02-06,um,Jy,,"SL2,SL1,LL2,LL1, There are multiple observation dates",Suár22,,2/6/2004 0:00:00,9/12/2005 0:00:00,4800
-2MASS J04291842-3123568,https://bdnyc.s3.amazonaws.com/IRS/0429-3123_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-02-10,um,Jy,,"SL2,SL1",Suár22,,2/10/2005 0:00:00,2/10/2005 0:00:00,720
-2MASS J04390101-2353083,https://bdnyc.s3.amazonaws.com/IRS/0439-2353_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-02-18,um,Jy,,"SL2,SL1",Suár22,,2/18/2005 0:00:00,2/18/2005 0:00:00,1680
-2MASS J04455387-3048204,https://bdnyc.s3.amazonaws.com/IRS/0445-3048_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-03-14,um,Jy,,"SL2,SL1",Suár22,,3/14/2005 0:00:00,3/14/2005 0:00:00,1440
-2MASS J05012406-0010452,https://bdnyc.s3.amazonaws.com/IRS/0501-0010_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2008-11-12,um,Jy,,"SL2,SL1",Suár22,,11/12/2008 0:00:00,11/12/2008 0:00:00,7560
-2MASS J05233822-1403022,https://bdnyc.s3.amazonaws.com/IRS/0523-1403_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-03-12,um,Jy,,"SL2,SL1",Suár22,,3/12/2005 0:00:00,3/12/2005 0:00:00,720
-2MASS J05325346+8246465,https://bdnyc.s3.amazonaws.com/IRS/0532%2B8246_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-03-23,um,Jy,,"SL2,SL1",Suár22,,3/23/2005 0:00:00,3/23/2005 0:00:00,1920
-2MASS J05395200-0059019,https://bdnyc.s3.amazonaws.com/IRS/0539-0059_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-03-23,um,Jy,,"SL2,SL1,LL2,LL1",Suár22,,3/23/2004 0:00:00,3/23/2004 0:00:00,2880
-2MASS J05591914-1404488,https://bdnyc.s3.amazonaws.com/IRS/0559-1404_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-03-23,um,Jy,,"SL2,SL1,LL2,LL1, There are multiple observation dates",Suár22,,3/23/2004 0:00:00,3/17/2005 0:00:00,5280
-2MASS J06244595-4521548,https://bdnyc.s3.amazonaws.com/IRS/0624-4521_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-03-20,um,Jy,,"SL2,SL1",Suár22,,3/20/2005 0:00:00,3/20/2005 0:00:00,1680
-2MASS J07003664+3157266,https://bdnyc.s3.amazonaws.com/IRS/0700%2B3157_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-04-21,um,Jy,,"SL2,SL1",Suár22,,4/21/2005 0:00:00,4/21/2005 0:00:00,720
-2MASS J07271824+1710012,https://bdnyc.s3.amazonaws.com/IRS/0727%2B1710_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2006-04-18,um,Jy,,"SL2,SL1",Suár22,,4/18/2006 0:00:00,4/18/2006 0:00:00,14400
-2MASS J07464256+2000321,https://bdnyc.s3.amazonaws.com/IRS/0746%2B2000_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-03-27,um,Jy,,"SL2,SL1,LL2,LL1",Suár22,,3/27/2004 0:00:00,3/27/2004 0:00:00,2400
-2MASS J07584037+3247245,https://bdnyc.s3.amazonaws.com/IRS/0758%2B3247_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-10-24,um,Jy,,"SL2,SL1",Suár22,,10/24/2004 0:00:00,10/24/2004 0:00:00,1920
-SDSS J080531.84+481233.0,https://bdnyc.s3.amazonaws.com/IRS/0805%2B4812_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-10-23,um,Jy,,"SL2,SL1",Suár22,,10/23/2004 0:00:00,10/23/2004 0:00:00,5280
-2MASS J08251968+2115521,https://bdnyc.s3.amazonaws.com/IRS/0825%2B2115_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-04-20,um,Jy,," SL2,SL1,LL2,LL1, There are multiple observation dates",Suár22,,4/20/2004 0:00:00,11/15/2005 0:00:00,4320
-2MASS J08294949+2646348,https://bdnyc.s3.amazonaws.com/IRS/0829%2B2646_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-04-20,um,Jy,,"SL2,SL1",Suár22,,4/20/2004 0:00:00,4/20/2004 0:00:00,48
-2MASS J08300825+4828482,https://bdnyc.s3.amazonaws.com/IRS/0830%2B4828_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-03-24,um,Jy,,"SL2,SL1",Suár22,,3/24/2005 0:00:00,3/24/2005 0:00:00,1920
-SDSS J083717.21-000018.0,https://bdnyc.s3.amazonaws.com/IRS/0837-0000_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-04-13,um,Jy,,"SL2,SL1, There are multiple observation dates",Suár22,,4/13/2004 0:00:00,4/23/2005 0:00:00,3840
-2MASS J08575849+5708514,https://bdnyc.s3.amazonaws.com/IRS/0857%2B5708_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-10-23,um,Jy,,"SL2,SL1",Suár22,,10/23/2004 0:00:00,10/23/2004 0:00:00,960
-2MASS J09083803+5032088,https://bdnyc.s3.amazonaws.com/IRS/0908%2B5032_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-10-23,um,Jy,,"SL2,SL1",Suár22,,10/23/2004 0:00:00,10/23/2004 0:00:00,1440
-2MASS J09111297+7401081,https://bdnyc.s3.amazonaws.com/IRS/0911%2B7401_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-03-13,um,Jy,,"SL2,SL1",Suár22,,3/13/2005 0:00:00,3/13/2005 0:00:00,720
-2MASS J09121469+1459396,https://bdnyc.s3.amazonaws.com/IRS/0912%2B1459_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-04-23,um,Jy,,"SL2,SL1",Suár22,,4/23/2005 0:00:00,4/23/2005 0:00:00,1920
-2MASS J09201223+3517429,https://bdnyc.s3.amazonaws.com/IRS/0920%2B3517_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-04-19,um,Jy,,"SL2,SL1",Suár22,,4/19/2004 0:00:00,4/19/2004 0:00:00,1920
-2MASS J09211410-2104446,https://bdnyc.s3.amazonaws.com/IRS/0921-2104_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-05-31,um,Jy,,"SL2,SL1",Suár22,,5/31/2005 0:00:00,5/31/2005 0:00:00,720
-2MASS J09293364+3429527,https://bdnyc.s3.amazonaws.com/IRS/0929%2B3429_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-04-19,um,Jy,,"SL2,SL1",Suár22,,4/19/2004 0:00:00,4/19/2004 0:00:00,1920
-2MASS J09373487+2931409,https://bdnyc.s3.amazonaws.com/IRS/0937%2B2931_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-04-18,um,Jy,,"SL2,SL1, There are multiple observation dates",Suár22,,4/18/2004 0:00:00,11/17/2005 0:00:00,3840
-2MASS J09393548-2448279,https://bdnyc.s3.amazonaws.com/IRS/0939-2448_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2006-05-24,um,Jy,,"SL2,SL1",Suár22,,5/24/2006 0:00:00,5/24/2006 0:00:00,14400
-2MASS J10130734−1356204,https://bdnyc.s3.amazonaws.com/IRS/1013-1356_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-06-07,um,Jy,,"SL2,SL1",Suár22,,6/7/2005 0:00:00,6/7/2005 0:00:00,8160
-2MASS J10170754+1308398,https://bdnyc.s3.amazonaws.com/IRS/1017%2B1308_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2009-01-19,um,Jy,,"SL2,SL1",Suár22,,1/19/2009 0:00:00,1/19/2009 0:00:00,4080
-2MASS J10210969-0304197,https://bdnyc.s3.amazonaws.com/IRS/1021-0304_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-05-13,um,Jy,,"SL2,SL1, There are multiple observation dates",Suár22,,5/13/2004 0:00:00,6/7/2005 0:00:00,3840
-2MASS J10224821+5825453,https://bdnyc.s3.amazonaws.com/IRS/1022%2B5825_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-04-16,um,Jy,,"SL2,SL1",Suár22,,4/16/2005 0:00:00,4/16/2005 0:00:00,1440
-CFBDS J102841+565401,https://bdnyc.s3.amazonaws.com/IRS/1028%2B5654_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2008-12-05,um,Jy,,SL1,Suár22,,12/5/2008 0:00:00,12/5/2008 0:00:00,12000
-2MASS J10365305-3441380,https://bdnyc.s3.amazonaws.com/IRS/1036-3441_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2006-01-23,um,Jy,,"SL2,SL1",Suár22,,1/23/2006 0:00:00,1/23/2006 0:00:00,1920
-2MASS J10452400-0149576,https://bdnyc.s3.amazonaws.com/IRS/1045-0149_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-05-23,um,Jy,,"SL2,SL1",Suár22,,5/23/2005 0:00:00,5/23/2005 0:00:00,720
-2MASS J10484281+0111580,https://bdnyc.s3.amazonaws.com/IRS/1048%2B0111_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-05-23,um,Jy,,"SL2,SL1",Suár22,,5/23/2005 0:00:00,5/23/2005 0:00:00,720
-2MASS J10511900+5613086,https://bdnyc.s3.amazonaws.com/IRS/1051%2B5613_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-04-16,um,Jy,,"SL2,SL1",Suár22,,4/16/2005 0:00:00,4/16/2005 0:00:00,720
-2MASS J10521350+4422559,https://bdnyc.s3.amazonaws.com/IRS/1052%2B4422_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2006-05-23,um,Jy,,"SL2,SL1",Suár22,,5/23/2006 0:00:00,5/23/2006 0:00:00,15840
-2MASS J11061197+2754225,https://bdnyc.s3.amazonaws.com/IRS/1106%2B2754_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-12-15,um,Jy,,"SL2,SL1",Suár22,,12/15/2005 0:00:00,12/15/2005 0:00:00,1920
-2MASS J11083081+6830169,https://bdnyc.s3.amazonaws.com/IRS/1108%2B6830_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-04-18,um,Jy,,"SL2,SL1,LL2,LL1",Suár22,,4/18/2004 0:00:00,4/18/2004 0:00:00,2400
-2MASS J11101001+0116130,https://bdnyc.s3.amazonaws.com/IRS/1110%2B0116_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-05-23,um,Jy,,"SL2,SL1, There are multiple observation dates",Suár22,,5/23/2005 0:00:00,1/15/2005 0:00:00,25920
-2MASS J11122567+3548131,https://bdnyc.s3.amazonaws.com/IRS/1112%2B3548_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2009-01-19,um,Jy,,"SL2,SL1",Suár22,,1/19/2009 0:00:00,1/19/2009 0:00:00,2040
-2MASS J11145133-2618235,https://bdnyc.s3.amazonaws.com/IRS/1114-2618_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2006-02-01,um,Jy,,"SL2,SL1",Suár22,,2/1/2006 0:00:00,2/1/2006 0:00:00,14400
-2MASS J11263991-5003550,https://bdnyc.s3.amazonaws.com/IRS/1126-5003_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2009-04-05,um,Jy,,"SL2,SL1",Suár22,,4/5/2009 0:00:00,4/5/2009 0:00:00,7680
-2MASS J11555389+0559577,https://bdnyc.s3.amazonaws.com/IRS/1155%2B0559_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2006-01-26,um,Jy,,"SL2,SL1",Suár22,,1/26/2006 0:00:00,1/26/2006 0:00:00,7680
-2MASS J12074717+0244249,https://bdnyc.s3.amazonaws.com/IRS/1207%2B0244_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-06-06,um,Jy,,"SL2,SL1, There are multiple observation dates",Suár22,,6/6/2005 0:00:00,6/3/2005 0:00:00,11520
-2MASS J12130336-0432437,https://bdnyc.s3.amazonaws.com/IRS/1213-0432_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-06-06,um,Jy,,"SL2,SL1",Suár22,,6/6/2005 0:00:00,6/6/2005 0:00:00,1680
-2MASS J12171110-0311131,https://bdnyc.s3.amazonaws.com/IRS/1217-0311_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-01-03,um,Jy,,"SL2,SL1",Suár22,,1/3/2005 0:00:00,1/3/2005 0:00:00,1920
-2MASS J12255432-2739466,https://bdnyc.s3.amazonaws.com/IRS/1225-2739_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-06-30,um,Jy,," SL2,SL1,LL2",Suár22,,6/30/2005 0:00:00,6/30/2005 0:00:00,3840
-2MASS J12373919+6526148,https://bdnyc.s3.amazonaws.com/IRS/1237%2B6526_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-03-03,um,Jy,,"SL2,SL1",Suár22,,3/3/2004 0:00:00,3/3/2004 0:00:00,1920
-2MASS J12392727+5515371,https://bdnyc.s3.amazonaws.com/IRS/1239%2B5515_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-04-18,um,Jy,,"SL2,SL1,LL2,LL1",Suár22,,4/18/2004 0:00:00,4/18/2004 0:00:00,2400
-2MASS J12545393-0122474,https://bdnyc.s3.amazonaws.com/IRS/1254-0122_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-02-04,um,Jy,,"SL2,SL1,LL2,LL1, There are multiple observation dates",Suár22,,2/4/2004 0:00:00,1/23/2006 0:00:00,5280
-2MASS J13054019-2541059,https://bdnyc.s3.amazonaws.com/IRS/1305-2541_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-02-15,um,Jy,,"SL2,SL1",Suár22,,2/15/2005 0:00:00,2/15/2005 0:00:00,1920
-2MASS J13314894-0116500,https://bdnyc.s3.amazonaws.com/IRS/1331-0116_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2006-01-28,um,Jy,,"SL2,SL1",Suár22,,1/28/2006 0:00:00,1/28/2006 0:00:00,15840
-ULAS J133553.45+113005.2,https://bdnyc.s3.amazonaws.com/IRS/1335%2B1130_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2008-08-09,um,Jy,,SL1,Suár22,,8/9/2008 0:00:00,8/9/2008 0:00:00,7680
-2MASS J14252798-3650229,https://bdnyc.s3.amazonaws.com/IRS/1425-3650_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-02-15,um,Jy,,"SL2,SL1",Suár22,,2/15/2005 0:00:00,2/15/2005 0:00:00,720
-2MASS J14390030+1839385,https://bdnyc.s3.amazonaws.com/IRS/1439%2B1839_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-07-01,um,Jy,,"SL2,SL1",Suár22,,7/1/2005 0:00:00,7/1/2005 0:00:00,8160
-2MASS J14392836+1929149,https://bdnyc.s3.amazonaws.com/IRS/1439%2B1929_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-07-06,um,Jy,,"SL2,SL1",Suár22,,7/6/2005 0:00:00,7/6/2005 0:00:00,1920
-2MASS J14413716−0945590,https://bdnyc.s3.amazonaws.com/IRS/1441-0945_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2009-03-09,um,Jy,,"SL2,SL1",Suár22,,3/9/2009 0:00:00,3/9/2009 0:00:00,4380
-2MASS J14482563+1031590,https://bdnyc.s3.amazonaws.com/IRS/1448%2B1031_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-02-14,um,Jy,,"SL2,SL1",Suár22,,2/14/2005 0:00:00,2/14/2005 0:00:00,1680
-2MASS J14563831-2809473,https://bdnyc.s3.amazonaws.com/IRS/1456-2809_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-02-29,um,Jy,,"SL2,SL1,LL2,LL1",Suár22,,2/29/2004 0:00:00,2/29/2004 0:00:00,1500
-2MASS J14571496-2121477,https://bdnyc.s3.amazonaws.com/IRS/1457-2121_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-02-15,um,Jy,,"SL2,SL1",Suár22,,2/15/2005 0:00:00,2/15/2005 0:00:00,1920
-2MASS J15031961+2525196,https://bdnyc.s3.amazonaws.com/IRS/1503%2B2525_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-07-06,um,Jy,,"SL2,SL1",Suár22,,7/6/2005 0:00:00,7/6/2005 0:00:00,1920
-2MASS J15065441+1321060,https://bdnyc.s3.amazonaws.com/IRS/1506%2B1321_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-07-09,um,Jy,,"SL2,SL1",Suár22,,7/9/2005 0:00:00,7/9/2005 0:00:00,1920
-2MASS J15074769-1627386,https://bdnyc.s3.amazonaws.com/IRS/1507-1627_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-08-08,um,Jy,,"SL2,SL1",Suár22,,8/8/2005 0:00:00,8/8/2005 0:00:00,1920
-2MASS J15150083+4847416,https://bdnyc.s3.amazonaws.com/IRS/1515%2B4847_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-03-19,um,Jy,,"SL2,SL1",Suár22,,3/19/2005 0:00:00,3/19/2005 0:00:00,1920
-2MASS J15164306+3053443,https://bdnyc.s3.amazonaws.com/IRS/1516%2B3053_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-08-15,um,Jy,,"SL2,SL1",Suár22,,8/15/2005 0:00:00,8/15/2005 0:00:00,16800
-2MASS J15203974+3546210,https://bdnyc.s3.amazonaws.com/IRS/1520%2B3546_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-08-15,um,Jy,,"SL2,SL1",Suár22,,8/15/2005 0:00:00,8/15/2005 0:00:00,7680
-2MASS J15232263+3014562,https://bdnyc.s3.amazonaws.com/IRS/1523%2B3014_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-03-19,um,Jy,,"SL2,SL1",Suár22,,3/19/2005 0:00:00,3/19/2005 0:00:00,1920
-2MASS J15261405+2043414,https://bdnyc.s3.amazonaws.com/IRS/1526%2B2043_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-03-03,um,Jy,,"SL2,SL1",Suár22,,3/3/2004 0:00:00,3/3/2004 0:00:00,1920
-2MASS J16102900−0040530,https://bdnyc.s3.amazonaws.com/IRS/1610-0040_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-08-07,um,Jy,,"SL2,SL1",Suár22,,8/7/2005 0:00:00,8/7/2005 0:00:00,1920
-2MASSW J1615441+355900,https://bdnyc.s3.amazonaws.com/IRS/1615%2B3559_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-02-16,um,Jy,,"SL2,SL1",Suár22,,2/16/2005 0:00:00,2/16/2005 0:00:00,1920
-2MASS J16241436+0029158,https://bdnyc.s3.amazonaws.com/IRS/1624%2B0029_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-08-07,um,Jy,,"SL2,SL1",Suár22,,8/7/2005 0:00:00,8/7/2005 0:00:00,1920
-2MASS J16262034+3925190,https://bdnyc.s3.amazonaws.com/IRS/1626%2B3925_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-06-03,um,Jy,,"SL2,SL1",Suár22,,6/3/2005 0:00:00,6/3/2005 0:00:00,8160
-2MASSI J1658037+702701,https://bdnyc.s3.amazonaws.com/IRS/1658%2B7027_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-04-17,um,Jy,," SL2,SL1,LL2,LL1",Suár22,,4/17/2004 0:00:00,4/17/2004 0:00:00,2400
-2MASS J17072343-0558249,https://bdnyc.s3.amazonaws.com/IRS/1707-0558_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-04-17,um,Jy,,"SL2,SL1",Suár22,,4/17/2005 0:00:00,4/17/2005 0:00:00,720
-2MASS J17210390+3344160,https://bdnyc.s3.amazonaws.com/IRS/1721%2B3344_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2008-08-01,um,Jy,,"SL2,SL1",Suár22,,8/1/2008 0:00:00,8/1/2008 0:00:00,7680
-2MASS J17281150+3948593,https://bdnyc.s3.amazonaws.com/IRS/1728%2B3948_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-04-16,um,Jy,,"SL2,SL1",Suár22,,4/16/2004 0:00:00,4/16/2004 0:00:00,1920
-2MASS J17312974+2721233,https://bdnyc.s3.amazonaws.com/IRS/1731%2B2721_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-08-04,um,Jy,,"SL2,SL1",Suár22,,8/4/2005 0:00:00,8/4/2005 0:00:00,720
-2MASS J17534518-6559559,https://bdnyc.s3.amazonaws.com/IRS/1753-6559_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-09-08,um,Jy,,"SL2,SL1",Suár22,,9/8/2005 0:00:00,9/8/2005 0:00:00,1440
-2MASS J18071593+5015316,https://bdnyc.s3.amazonaws.com/IRS/1807%2B5015_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-07-13,um,Jy,,"SL2,SL1",Suár22,,7/13/2005 0:00:00,7/13/2005 0:00:00,720
-2MASS J18212815+1414010,https://bdnyc.s3.amazonaws.com/IRS/1821%2B1414_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2006-04-21,um,Jy,,"SL2,SL1",Suár22,,4/21/2006 0:00:00,4/21/2006 0:00:00,1920
-2MASS J18284076+1229207,https://bdnyc.s3.amazonaws.com/IRS/1828%2B1229_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2006-04-20,um,Jy,,"SL2,SL1",Suár22,,4/20/2006 0:00:00,4/20/2006 0:00:00,1680
-2MASS J19165762+0509021,https://bdnyc.s3.amazonaws.com/IRS/1916%2B0509_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-10-11,um,Jy,,"SL2,SL1,LL2,LL1",Suár22,,10/11/2005 0:00:00,10/11/2005 0:00:00,1080
-2MASS J19360187-5502322,https://bdnyc.s3.amazonaws.com/IRS/1936-5502_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-09-14,um,Jy,,"SL2,SL1",Suár22,,9/14/2005 0:00:00,9/14/2005 0:00:00,1680
-2MASS J20575409-0252302,https://bdnyc.s3.amazonaws.com/IRS/2057-0252_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-05-25,um,Jy,,"SL2,SL1",Suár22,,5/25/2005 0:00:00,5/25/2005 0:00:00,720
-2MASS J21321145+1341584,https://bdnyc.s3.amazonaws.com/IRS/2132%2B1341_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2009-01-04,um,Jy,,"SL2,SL1",Suár22,,1/4/2009 0:00:00,1/4/2009 0:00:00,13200
-2MASS J21392676+0220226,https://bdnyc.s3.amazonaws.com/IRS/2139%2B0220_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-05-25,um,Jy,,"SL2,SL1",Suár22,,5/25/2005 0:00:00,5/25/2005 0:00:00,960
-2MASS J21442847+1446077,https://bdnyc.s3.amazonaws.com/IRS/2144%2B1446_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2008-08-02,um,Jy,,"SL2,SL1, There are multiple observation dates",Suár22,,8/2/2008 0:00:00,7/11/2008 0:00:00,42240
-ULAS J214638.83−001038.7,https://bdnyc.s3.amazonaws.com/IRS/2146-0010_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2008-12-16,um,Jy,,SL1,Suár22,,12/16/2008 0:00:00,12/16/2008 0:00:00,20160
-2MASS J21481633+4003594,https://bdnyc.s3.amazonaws.com/IRS/2148%2B4003_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-12-15,um,Jy,,"SL2,SL1",Suár22,,12/15/2005 0:00:00,12/15/2005 0:00:00,1920
-2MASS J21522609+0937575,https://bdnyc.s3.amazonaws.com/IRS/2152%2B0937_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-07-09,um,Jy,,"SL2,SL1",Suár22,,7/9/2005 0:00:00,7/9/2005 0:00:00,1920
-2MASS J22041052−5646577,https://bdnyc.s3.amazonaws.com/IRS/2204-5646_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-05-31,um,Jy,,"SL2,SL1,LL2,LL1",Suár22,,5/31/2005 0:00:00,5/31/2005 0:00:00,2400
-2MASS J22244381-0158521,https://bdnyc.s3.amazonaws.com/IRS/2224-0158_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-11-13,um,Jy,,"SL2,SL1",Suár22,,11/13/2004 0:00:00,11/13/2004 0:00:00,1920
-2MASS J22383372−1517573,https://bdnyc.s3.amazonaws.com/IRS/2238-1517_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-06-07,um,Jy,,"SL2,SL1,LL2,LL1",Suár22,,6/7/2004 0:00:00,6/7/2004 0:00:00,96
-2MASS J22443167+2043433,https://bdnyc.s3.amazonaws.com/IRS/2244%2B2043_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-12-10,um,Jy,,"SL2,SL1",Suár22,,12/10/2004 0:00:00,12/10/2004 0:00:00,3840
-2MASSI J2254188+312349,https://bdnyc.s3.amazonaws.com/IRS/2254%2B3123_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-01-05,um,Jy,,"SL2,SL1",Suár22,,1/5/2005 0:00:00,1/5/2005 0:00:00,22560
-2MASS J23515044-2537367,https://bdnyc.s3.amazonaws.com/IRS/2351-2537_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-07-05,um,Jy,,"SL2,SL1",Suár22,,7/5/2005 0:00:00,7/5/2005 0:00:00,720
+2MASS J00001354+2554180,https://bdnyc.s3.amazonaws.com/IRS/0000%2B2554_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-12-18,um,Jy,NULL,"SL2,SL1, There are multiple observation dates",Suár22,,2005-12-18,2006-01-25,20640
+2MASS J00043484-4044058,https://bdnyc.s3.amazonaws.com/IRS/0004-4044_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2009-01-15,um,Jy,,"SL2,SL1",Suár22,,2009-01-15,2009-01-15,300
+DY Psc,https://bdnyc.s3.amazonaws.com/IRS/0024-0158_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-01-04,um,Jy,,"SL2,SL1,LL2",Suár22,,2004-01-04,2004-01-04,2520
+2MASS J00250365+4759191,https://bdnyc.s3.amazonaws.com/IRS/0025%2B4759_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2009-03-07,um,Jy,,"SL2,SL1",Suár22,,2009-03-07,2009-03-07,2760
+CFBDS J003402-005205,https://bdnyc.s3.amazonaws.com/IRS/0034-0052_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2008-01-15,um,Jy,,SL1,Suár22,,2008-01-15,2008-01-15,30720
+2MASS J00345157+0523050,https://bdnyc.s3.amazonaws.com/IRS/0034%2B0523_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2006-01-19,um,Jy,,"SL2,SL1",Suár22,,2006-01-19,2006-01-19,14400
+2MASS J00361617+1821104,https://bdnyc.s3.amazonaws.com/IRS/0036%2B1821_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-01-06,um,Jy,,"SL2,SL1,LL2,LL1",Suár22,,2004-01-06,2004-01-06,2400
+CFBDS J005910.90-011401.3,https://bdnyc.s3.amazonaws.com/IRS/0059-0114_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2009-01-13,um,Jy,,SL1,Suár22,,2009-01-13,2009-01-13,14280
+SIMP J013656.5+093347.3,https://bdnyc.s3.amazonaws.com/IRS/0136%2B0933_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2008-09-01,um,Jy,,"SL2,SL1",Suár22,,2008-09-01,2008-09-01,720
+2MASS J01390120−1757026,https://bdnyc.s3.amazonaws.com/IRS/0139-1757_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-07-10,um,Jy,,"SL2,SL1,LL2,LL1",Suár22,,2005-07-10,2005-07-10,96
+2MASS J01443536-0716142,https://bdnyc.s3.amazonaws.com/IRS/0144-0716_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-01-15,um,Jy,,"SL2,SL1",Suár22,,2005-01-15,2005-01-15,1440
+2MASS J02511490-0352459,https://bdnyc.s3.amazonaws.com/IRS/0251-0352_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-01-14,um,Jy,,"SL2,SL1",Suár22,,2005-01-14,2005-01-14,720
+2MASS J02550357-4700509,https://bdnyc.s3.amazonaws.com/IRS/0255-4700_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-01-07,um,Jy,,"SL2,SL1,LL2,LL1",Suár22,,2004-01-07,2004-01-07,11040
+2MASS J03552337+1133437,https://bdnyc.s3.amazonaws.com/IRS/0355%2B1133_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2008-10-10,um,Jy,,"SL2,SL1",Suár22,,2008-10-10,2008-10-10,5760
+2MASS J04151954-0935066,https://bdnyc.s3.amazonaws.com/IRS/0415-0935_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-09-06,um,Jy,,"SL2,SL1, There are multiple observation dates",Suár22,,2005-09-06,2005-09-12,34560
+2MASS J04234858−0414035,https://bdnyc.s3.amazonaws.com/IRS/0423-0414_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-02-06,um,Jy,,"SL2,SL1,LL2,LL1, There are multiple observation dates",Suár22,,2004-02-06,2005-09-12,4800
+2MASS J04291842-3123568,https://bdnyc.s3.amazonaws.com/IRS/0429-3123_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-02-10,um,Jy,,"SL2,SL1",Suár22,,2005-02-10,2005-02-10,720
+2MASS J04390101-2353083,https://bdnyc.s3.amazonaws.com/IRS/0439-2353_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-02-18,um,Jy,,"SL2,SL1",Suár22,,2005-02-18,2005-02-18,1680
+2MASS J04455387-3048204,https://bdnyc.s3.amazonaws.com/IRS/0445-3048_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-03-14,um,Jy,,"SL2,SL1",Suár22,,2005-03-14,2005-03-14,1440
+2MASS J05012406-0010452,https://bdnyc.s3.amazonaws.com/IRS/0501-0010_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2008-11-12,um,Jy,,"SL2,SL1",Suár22,,2008-11-12,2008-11-12,7560
+2MASS J05233822-1403022,https://bdnyc.s3.amazonaws.com/IRS/0523-1403_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-03-12,um,Jy,,"SL2,SL1",Suár22,,2005-03-12,2005-03-12,720
+2MASS J05325346+8246465,https://bdnyc.s3.amazonaws.com/IRS/0532%2B8246_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-03-23,um,Jy,,"SL2,SL1",Suár22,,2005-03-23,2005-03-23,1920
+2MASS J05395200-0059019,https://bdnyc.s3.amazonaws.com/IRS/0539-0059_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-03-23,um,Jy,,"SL2,SL1,LL2,LL1",Suár22,,2004-03-23,2004-03-23,2880
+2MASS J05591914-1404488,https://bdnyc.s3.amazonaws.com/IRS/0559-1404_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-03-23,um,Jy,,"SL2,SL1,LL2,LL1, There are multiple observation dates",Suár22,,2004-03-23,2005-03-17,5280
+2MASS J06244595-4521548,https://bdnyc.s3.amazonaws.com/IRS/0624-4521_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-03-20,um,Jy,,"SL2,SL1",Suár22,,2005-03-20,2005-03-20,1680
+2MASS J07003664+3157266,https://bdnyc.s3.amazonaws.com/IRS/0700%2B3157_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-04-21,um,Jy,,"SL2,SL1",Suár22,,2005-04-21,2005-04-21,720
+2MASS J07271824+1710012,https://bdnyc.s3.amazonaws.com/IRS/0727%2B1710_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2006-04-18,um,Jy,,"SL2,SL1",Suár22,,2006-04-18,2006-04-18,14400
+2MASS J07464256+2000321,https://bdnyc.s3.amazonaws.com/IRS/0746%2B2000_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-03-27,um,Jy,,"SL2,SL1,LL2,LL1",Suár22,,2004-03-27,2004-03-27,2400
+2MASS J07584037+3247245,https://bdnyc.s3.amazonaws.com/IRS/0758%2B3247_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-10-24,um,Jy,,"SL2,SL1",Suár22,,2004-10-24,2004-10-24,1920
+SDSS J080531.84+481233.0,https://bdnyc.s3.amazonaws.com/IRS/0805%2B4812_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-10-23,um,Jy,,"SL2,SL1",Suár22,,2004-10-23,2004-10-23,5280
+2MASS J08251968+2115521,https://bdnyc.s3.amazonaws.com/IRS/0825%2B2115_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-04-20,um,Jy,," SL2,SL1,LL2,LL1, There are multiple observation dates",Suár22,,2004-04-20,2005-11-15,4320
+2MASS J08294949+2646348,https://bdnyc.s3.amazonaws.com/IRS/0829%2B2646_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-04-20,um,Jy,,"SL2,SL1",Suár22,,2004-04-20,2004-04-20,48
+2MASS J08300825+4828482,https://bdnyc.s3.amazonaws.com/IRS/0830%2B4828_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-03-24,um,Jy,,"SL2,SL1",Suár22,,2005-03-24,2005-03-24,1920
+SDSS J083717.21-000018.0,https://bdnyc.s3.amazonaws.com/IRS/0837-0000_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-04-13,um,Jy,,"SL2,SL1, There are multiple observation dates",Suár22,,2004-04-13,2005-04-23,3840
+2MASS J08575849+5708514,https://bdnyc.s3.amazonaws.com/IRS/0857%2B5708_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-10-23,um,Jy,,"SL2,SL1",Suár22,,2004-10-23,2004-10-23,960
+2MASS J09083803+5032088,https://bdnyc.s3.amazonaws.com/IRS/0908%2B5032_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-10-23,um,Jy,,"SL2,SL1",Suár22,,2004-10-23,2004-10-23,1440
+2MASS J09111297+7401081,https://bdnyc.s3.amazonaws.com/IRS/0911%2B7401_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-03-13,um,Jy,,"SL2,SL1",Suár22,,2005-03-13,2005-03-13,720
+2MASS J09121469+1459396,https://bdnyc.s3.amazonaws.com/IRS/0912%2B1459_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-04-23,um,Jy,,"SL2,SL1",Suár22,,2005-04-23,2005-04-23,1920
+2MASS J09201223+3517429,https://bdnyc.s3.amazonaws.com/IRS/0920%2B3517_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-04-19,um,Jy,,"SL2,SL1",Suár22,,2004-04-19,2004-04-19,1920
+2MASS J09211410-2104446,https://bdnyc.s3.amazonaws.com/IRS/0921-2104_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-05-31,um,Jy,,"SL2,SL1",Suár22,,2005-05-31,2005-05-31,720
+2MASS J09293364+3429527,https://bdnyc.s3.amazonaws.com/IRS/0929%2B3429_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-04-19,um,Jy,,"SL2,SL1",Suár22,,2004-04-19,2004-04-19,1920
+2MASS J09373487+2931409,https://bdnyc.s3.amazonaws.com/IRS/0937%2B2931_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-04-18,um,Jy,,"SL2,SL1, There are multiple observation dates",Suár22,,2004-04-18,2005-11-17,3840
+2MASS J09393548-2448279,https://bdnyc.s3.amazonaws.com/IRS/0939-2448_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2006-05-24,um,Jy,,"SL2,SL1",Suár22,,2006-05-24,2006-05-24,14400
+2MASS J10130734−1356204,https://bdnyc.s3.amazonaws.com/IRS/1013-1356_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-06-07,um,Jy,,"SL2,SL1",Suár22,,2005-06-07,2005-06-07,8160
+2MASS J10170754+1308398,https://bdnyc.s3.amazonaws.com/IRS/1017%2B1308_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2009-01-19,um,Jy,,"SL2,SL1",Suár22,,2009-01-19,2009-01-19,4080
+2MASS J10210969-0304197,https://bdnyc.s3.amazonaws.com/IRS/1021-0304_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-05-13,um,Jy,,"SL2,SL1, There are multiple observation dates",Suár22,,2004-05-13,2005-06-07,3840
+2MASS J10224821+5825453,https://bdnyc.s3.amazonaws.com/IRS/1022%2B5825_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-04-16,um,Jy,,"SL2,SL1",Suár22,,2005-04-16,2005-04-16,1440
+CFBDS J102841+565401,https://bdnyc.s3.amazonaws.com/IRS/1028%2B5654_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2008-12-05,um,Jy,,SL1,Suár22,,2008-12-05,2008-12-05,12000
+2MASS J10365305-3441380,https://bdnyc.s3.amazonaws.com/IRS/1036-3441_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2006-01-23,um,Jy,,"SL2,SL1",Suár22,,2006-01-23,2006-01-23,1920
+2MASS J10452400-0149576,https://bdnyc.s3.amazonaws.com/IRS/1045-0149_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-05-23,um,Jy,,"SL2,SL1",Suár22,,2005-05-23,2005-05-23,720
+2MASS J10484281+0111580,https://bdnyc.s3.amazonaws.com/IRS/1048%2B0111_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-05-23,um,Jy,,"SL2,SL1",Suár22,,2005-05-23,2005-05-23,720
+2MASS J10511900+5613086,https://bdnyc.s3.amazonaws.com/IRS/1051%2B5613_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-04-16,um,Jy,,"SL2,SL1",Suár22,,2005-04-16,2005-04-16,720
+2MASS J10521350+4422559,https://bdnyc.s3.amazonaws.com/IRS/1052%2B4422_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2006-05-23,um,Jy,,"SL2,SL1",Suár22,,2006-05-23,2006-05-23,15840
+2MASS J11061197+2754225,https://bdnyc.s3.amazonaws.com/IRS/1106%2B2754_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-12-15,um,Jy,,"SL2,SL1",Suár22,,2005-12-15,2005-12-15,1920
+2MASS J11083081+6830169,https://bdnyc.s3.amazonaws.com/IRS/1108%2B6830_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-04-18,um,Jy,,"SL2,SL1,LL2,LL1",Suár22,,2004-04-18,2004-04-18,2400
+2MASS J11101001+0116130,https://bdnyc.s3.amazonaws.com/IRS/1110%2B0116_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-05-23,um,Jy,,"SL2,SL1, There are multiple observation dates",Suár22,,2005-05-23,2005-01-15,25920
+2MASS J11122567+3548131,https://bdnyc.s3.amazonaws.com/IRS/1112%2B3548_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2009-01-19,um,Jy,,"SL2,SL1",Suár22,,2009-01-19,2009-01-19,2040
+2MASS J11145133-2618235,https://bdnyc.s3.amazonaws.com/IRS/1114-2618_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2006-02-01,um,Jy,,"SL2,SL1",Suár22,,2006-02-01,2006-02-01,14400
+2MASS J11263991-5003550,https://bdnyc.s3.amazonaws.com/IRS/1126-5003_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2009-04-05,um,Jy,,"SL2,SL1",Suár22,,2009-04-05,2009-04-05,7680
+2MASS J11555389+0559577,https://bdnyc.s3.amazonaws.com/IRS/1155%2B0559_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2006-01-26,um,Jy,,"SL2,SL1",Suár22,,2006-01-26,2006-01-26,7680
+2MASS J12074717+0244249,https://bdnyc.s3.amazonaws.com/IRS/1207%2B0244_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-06-06,um,Jy,,"SL2,SL1, There are multiple observation dates",Suár22,,2005-06-06,2005-06-03,11520
+2MASS J12130336-0432437,https://bdnyc.s3.amazonaws.com/IRS/1213-0432_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-06-06,um,Jy,,"SL2,SL1",Suár22,,2005-06-06,2005-06-06,1680
+2MASS J12171110-0311131,https://bdnyc.s3.amazonaws.com/IRS/1217-0311_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-01-03,um,Jy,,"SL2,SL1",Suár22,,2005-01-03,2005-01-03,1920
+2MASS J12255432-2739466,https://bdnyc.s3.amazonaws.com/IRS/1225-2739_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-06-30,um,Jy,," SL2,SL1,LL2",Suár22,,2005-06-30,2005-06-30,3840
+2MASS J12373919+6526148,https://bdnyc.s3.amazonaws.com/IRS/1237%2B6526_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-03-03,um,Jy,,"SL2,SL1",Suár22,,2004-03-03,2004-03-03,1920
+2MASS J12392727+5515371,https://bdnyc.s3.amazonaws.com/IRS/1239%2B5515_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-04-18,um,Jy,,"SL2,SL1,LL2,LL1",Suár22,,2004-04-18,2004-04-18,2400
+2MASS J12545393-0122474,https://bdnyc.s3.amazonaws.com/IRS/1254-0122_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-02-04,um,Jy,,"SL2,SL1,LL2,LL1, There are multiple observation dates",Suár22,,2004-02-04,2006-01-23,5280
+2MASS J13054019-2541059,https://bdnyc.s3.amazonaws.com/IRS/1305-2541_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-02-15,um,Jy,,"SL2,SL1",Suár22,,2005-02-15,2005-02-15,1920
+2MASS J13314894-0116500,https://bdnyc.s3.amazonaws.com/IRS/1331-0116_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2006-01-28,um,Jy,,"SL2,SL1",Suár22,,2006-01-28,2006-01-28,15840
+ULAS J133553.45+113005.2,https://bdnyc.s3.amazonaws.com/IRS/1335%2B1130_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2008-08-09,um,Jy,,SL1,Suár22,,2008-08-09,2008-08-09,7680
+2MASS J14252798-3650229,https://bdnyc.s3.amazonaws.com/IRS/1425-3650_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-02-15,um,Jy,,"SL2,SL1",Suár22,,2005-02-15,2005-02-15,720
+2MASS J14390030+1839385,https://bdnyc.s3.amazonaws.com/IRS/1439%2B1839_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-07-01,um,Jy,,"SL2,SL1",Suár22,,2005-07-01,2005-07-01,8160
+2MASS J14392836+1929149,https://bdnyc.s3.amazonaws.com/IRS/1439%2B1929_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-07-06,um,Jy,,"SL2,SL1",Suár22,,2005-07-06,2005-07-06,1920
+2MASS J14413716−0945590,https://bdnyc.s3.amazonaws.com/IRS/1441-0945_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2009-03-09,um,Jy,,"SL2,SL1",Suár22,,2009-03-09,2009-03-09,4380
+2MASS J14482563+1031590,https://bdnyc.s3.amazonaws.com/IRS/1448%2B1031_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-02-14,um,Jy,,"SL2,SL1",Suár22,,2005-02-14,2005-02-14,1680
+2MASS J14563831-2809473,https://bdnyc.s3.amazonaws.com/IRS/1456-2809_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-02-29,um,Jy,,"SL2,SL1,LL2,LL1",Suár22,,2004-02-29,2004-02-29,1500
+2MASS J14571496-2121477,https://bdnyc.s3.amazonaws.com/IRS/1457-2121_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-02-15,um,Jy,,"SL2,SL1",Suár22,,2005-02-15,2005-02-15,1920
+2MASS J15031961+2525196,https://bdnyc.s3.amazonaws.com/IRS/1503%2B2525_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-07-06,um,Jy,,"SL2,SL1",Suár22,,2005-07-06,2005-07-06,1920
+2MASS J15065441+1321060,https://bdnyc.s3.amazonaws.com/IRS/1506%2B1321_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-07-09,um,Jy,,"SL2,SL1",Suár22,,2005-07-09,2005-07-09,1920
+2MASS J15074769-1627386,https://bdnyc.s3.amazonaws.com/IRS/1507-1627_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-08-08,um,Jy,,"SL2,SL1",Suár22,,2005-08-08,2005-08-08,1920
+2MASS J15150083+4847416,https://bdnyc.s3.amazonaws.com/IRS/1515%2B4847_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-03-19,um,Jy,,"SL2,SL1",Suár22,,2005-03-19,2005-03-19,1920
+2MASS J15164306+3053443,https://bdnyc.s3.amazonaws.com/IRS/1516%2B3053_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-08-15,um,Jy,,"SL2,SL1",Suár22,,2005-08-15,2005-08-15,16800
+2MASS J15203974+3546210,https://bdnyc.s3.amazonaws.com/IRS/1520%2B3546_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-08-15,um,Jy,,"SL2,SL1",Suár22,,2005-08-15,2005-08-15,7680
+2MASS J15232263+3014562,https://bdnyc.s3.amazonaws.com/IRS/1523%2B3014_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-03-19,um,Jy,,"SL2,SL1",Suár22,,2005-03-19,2005-03-19,1920
+2MASS J15261405+2043414,https://bdnyc.s3.amazonaws.com/IRS/1526%2B2043_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-03-03,um,Jy,,"SL2,SL1",Suár22,,2004-03-03,2004-03-03,1920
+2MASS J16102900−0040530,https://bdnyc.s3.amazonaws.com/IRS/1610-0040_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-08-07,um,Jy,,"SL2,SL1",Suár22,,2005-08-07,2005-08-07,1920
+2MASSW J1615441+355900,https://bdnyc.s3.amazonaws.com/IRS/1615%2B3559_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-02-16,um,Jy,,"SL2,SL1",Suár22,,2005-02-16,2005-02-16,1920
+2MASS J16241436+0029158,https://bdnyc.s3.amazonaws.com/IRS/1624%2B0029_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-08-07,um,Jy,,"SL2,SL1",Suár22,,2005-08-07,2005-08-07,1920
+2MASS J16262034+3925190,https://bdnyc.s3.amazonaws.com/IRS/1626%2B3925_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-06-03,um,Jy,,"SL2,SL1",Suár22,,2005-06-03,2005-06-03,8160
+2MASSI J1658037+702701,https://bdnyc.s3.amazonaws.com/IRS/1658%2B7027_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-04-17,um,Jy,," SL2,SL1,LL2,LL1",Suár22,,2004-04-17,2004-04-17,2400
+2MASS J17072343-0558249,https://bdnyc.s3.amazonaws.com/IRS/1707-0558_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-04-17,um,Jy,,"SL2,SL1",Suár22,,2005-04-17,2005-04-17,720
+2MASS J17210390+3344160,https://bdnyc.s3.amazonaws.com/IRS/1721%2B3344_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2008-08-01,um,Jy,,"SL2,SL1",Suár22,,2008-08-01,2008-08-01,7680
+2MASS J17281150+3948593,https://bdnyc.s3.amazonaws.com/IRS/1728%2B3948_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-04-16,um,Jy,,"SL2,SL1",Suár22,,2004-04-16,2004-04-16,1920
+2MASS J17312974+2721233,https://bdnyc.s3.amazonaws.com/IRS/1731%2B2721_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-08-04,um,Jy,,"SL2,SL1",Suár22,,2005-08-04,2005-08-04,720
+2MASS J17534518-6559559,https://bdnyc.s3.amazonaws.com/IRS/1753-6559_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-09-08,um,Jy,,"SL2,SL1",Suár22,,2005-09-08,2005-09-08,1440
+2MASS J18071593+5015316,https://bdnyc.s3.amazonaws.com/IRS/1807%2B5015_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-07-13,um,Jy,,"SL2,SL1",Suár22,,2005-07-13,2005-07-13,720
+2MASS J18212815+1414010,https://bdnyc.s3.amazonaws.com/IRS/1821%2B1414_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2006-04-21,um,Jy,,"SL2,SL1",Suár22,,2006-04-21,2006-04-21,1920
+2MASS J18284076+1229207,https://bdnyc.s3.amazonaws.com/IRS/1828%2B1229_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2006-04-20,um,Jy,,"SL2,SL1",Suár22,,2006-04-20,2006-04-20,1680
+2MASS J19165762+0509021,https://bdnyc.s3.amazonaws.com/IRS/1916%2B0509_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-10-11,um,Jy,,"SL2,SL1,LL2,LL1",Suár22,,2005-10-11,2005-10-11,1080
+2MASS J19360187-5502322,https://bdnyc.s3.amazonaws.com/IRS/1936-5502_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-09-14,um,Jy,,"SL2,SL1",Suár22,,2005-09-14,2005-09-14,1680
+2MASS J20575409-0252302,https://bdnyc.s3.amazonaws.com/IRS/2057-0252_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-05-25,um,Jy,,"SL2,SL1",Suár22,,2005-05-25,2005-05-25,720
+2MASS J21321145+1341584,https://bdnyc.s3.amazonaws.com/IRS/2132%2B1341_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2009-01-04,um,Jy,,"SL2,SL1",Suár22,,2009-01-04,2009-01-04,13200
+2MASS J21392676+0220226,https://bdnyc.s3.amazonaws.com/IRS/2139%2B0220_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-05-25,um,Jy,,"SL2,SL1",Suár22,,2005-05-25,2005-05-25,960
+2MASS J21442847+1446077,https://bdnyc.s3.amazonaws.com/IRS/2144%2B1446_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2008-08-02,um,Jy,,"SL2,SL1, There are multiple observation dates",Suár22,,2008-08-02,2008-07-11,42240
+ULAS J214638.83−001038.7,https://bdnyc.s3.amazonaws.com/IRS/2146-0010_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2008-12-16,um,Jy,,SL1,Suár22,,2008-12-16,2008-12-16,20160
+2MASS J21481633+4003594,https://bdnyc.s3.amazonaws.com/IRS/2148%2B4003_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-12-15,um,Jy,,"SL2,SL1",Suár22,,2005-12-15,2005-12-15,1920
+2MASS J21522609+0937575,https://bdnyc.s3.amazonaws.com/IRS/2152%2B0937_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-07-09,um,Jy,,"SL2,SL1",Suár22,,2005-07-09,2005-07-09,1920
+2MASS J22041052−5646577,https://bdnyc.s3.amazonaws.com/IRS/2204-5646_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-05-31,um,Jy,,"SL2,SL1,LL2,LL1",Suár22,,2005-05-31,2005-05-31,2400
+2MASS J22244381-0158521,https://bdnyc.s3.amazonaws.com/IRS/2224-0158_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-11-13,um,Jy,,"SL2,SL1",Suár22,,2004-11-13,2004-11-13,1920
+2MASS J22383372−1517573,https://bdnyc.s3.amazonaws.com/IRS/2238-1517_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-06-07,um,Jy,,"SL2,SL1,LL2,LL1",Suár22,,2004-06-07,2004-06-07,96
+2MASS J22443167+2043433,https://bdnyc.s3.amazonaws.com/IRS/2244%2B2043_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2004-12-10,um,Jy,,"SL2,SL1",Suár22,,2004-12-10,2004-12-10,3840
+2MASSI J2254188+312349,https://bdnyc.s3.amazonaws.com/IRS/2254%2B3123_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-01-05,um,Jy,,"SL2,SL1",Suár22,,2005-01-05,2005-01-05,22560
+2MASS J23515044-2537367,https://bdnyc.s3.amazonaws.com/IRS/2351-2537_IRS_spectrum.dat,mir,Spitzer,IRS,SL,2005-07-05,um,Jy,,"SL2,SL1",Suár22,,2005-07-05,2005-07-05,720

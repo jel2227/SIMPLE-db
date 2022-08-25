@@ -130,7 +130,7 @@ def convert_to_fits(spectra_data_info):
             'comment': comment,
             'obs_location':spectra_data_info['obs_location']
             }
-
+        print(spectra_data_info['stop_time_column_name'])
         hdu0 = fits.PrimaryHDU(header=compile_header(**header_dict))
 
         spectrum_mef = fits.HDUList([hdu0,hdu1])#hdu0 is header and hdu1 is data
