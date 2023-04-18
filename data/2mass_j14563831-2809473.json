@@ -279,8 +279,8 @@
     ],
     "Spectra": [
         {
-            "spectrum": "https://bdnyc.s3.amazonaws.com/IRS/1456-2809_IRS_spectrum.fits",
-            "original_spectrum": "https://bdnyc.s3.amazonaws.com/IRS/1456-2809_IRS_spectrum.dat",
+            "spectrum": "https://bdnyc.s3.amazonaws.com/SpeX/Prism/2MASS+J13595510-4034582_2013-04-25.fits",
+            "original_spectrum": "https://s3.amazonaws.com/bdnyc/spex_prism_lhs3003_080729.txt",
             "local_spectrum": null,
             "regime": "mir",
             "telescope": "Spitzer",
@@ -292,8 +292,8 @@
             "other_references": null
         },
         {
-            "spectrum": "https://s3.amazonaws.com/bdnyc/LHS3003_SL.txt",
-            "original_spectrum": null,
+            "spectrum": "https://bdnyc.s3.amazonaws.com/SpeX/Prism/2MASS+J13595510-4034582_2013-04-25.fits",
+            "original_spectrum": "https://s3.amazonaws.com/bdnyc/spex_prism_lhs3003_080729.txt",
             "local_spectrum": "$BDNYC_spectra/IRS/IRS_DimSuns_S12/LHS3003_SL.txt",
             "regime": "mir",
             "telescope": "Spitzer",
@@ -305,8 +305,8 @@
             "other_references": null
         },
         {
-            "spectrum": "https://s3.amazonaws.com/bdnyc/spex_prism_lhs3003_080729.txt",
-            "original_spectrum": null,
+            "spectrum": "https://bdnyc.s3.amazonaws.com/SpeX/Prism/2MASS+J13595510-4034582_2013-04-25.fits",
+            "original_spectrum": "https://s3.amazonaws.com/bdnyc/spex_prism_lhs3003_080729.txt",
             "local_spectrum": "$BDNYC_spectra/SpeX/Prism/spex_prism_lhs3003_080729.txt",
             "regime": "nir",
             "telescope": "IRTF",
@@ -318,8 +318,8 @@
             "other_references": null
         },
         {
-            "spectrum": "https://s3.amazonaws.com/bdnyc/U11264.fits",
-            "original_spectrum": null,
+            "spectrum": "https://bdnyc.s3.amazonaws.com/SpeX/Prism/2MASS+J13595510-4034582_2013-04-25.fits",
+            "original_spectrum": "https://s3.amazonaws.com/bdnyc/spex_prism_lhs3003_080729.txt",
             "local_spectrum": "$BDNYC_spectra/optical_spectra/U11264.fits",
             "regime": "optical",
             "telescope": "KPNO 2.1m",

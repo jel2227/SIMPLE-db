@@ -226,8 +226,8 @@
     ],
     "Spectra": [
         {
-            "spectrum": "https://bdnyc.s3.amazonaws.com/xshooter/2M0500_total.fits",
-            "original_spectrum": null,
+            "spectrum": " https://bdnyc.s3.amazonaws.com/SpeX/Prism/TVLM+868-110639_2009-06-29.fits",
+            "original_spectrum": "https://s3.amazonaws.com/bdnyc/0500%2B0330.txt",
             "local_spectrum": null,
             "regime": "em.IR.NIR",
             "telescope": "ESO VLT",
@@ -239,8 +239,8 @@
             "other_references": null
         },
         {
-            "spectrum": "https://bdnyc.s3.amazonaws.com/xshooter/2M0500_total.fits",
-            "original_spectrum": null,
+            "spectrum": " https://bdnyc.s3.amazonaws.com/SpeX/Prism/TVLM+868-110639_2009-06-29.fits",
+            "original_spectrum": "https://s3.amazonaws.com/bdnyc/0500%2B0330.txt",
             "local_spectrum": null,
             "regime": "em.opt",
             "telescope": "ESO VLT",
@@ -252,8 +252,8 @@
             "other_references": null
         },
         {
-            "spectrum": "https://s3.amazonaws.com/bdnyc/0500%2B0330.txt",
-            "original_spectrum": null,
+            "spectrum": " https://bdnyc.s3.amazonaws.com/SpeX/Prism/TVLM+868-110639_2009-06-29.fits",
+            "original_spectrum": "https://s3.amazonaws.com/bdnyc/0500%2B0330.txt",
             "local_spectrum": "$BDNYC_spectra/SpeX/Prism/0500+0330.txt",
             "regime": "nir",
             "telescope": "IRTF",
@@ -265,8 +265,8 @@
             "other_references": null
         },
         {
-            "spectrum": "https://s3.amazonaws.com/bdnyc/u20197.fits",
-            "original_spectrum": null,
+            "spectrum": " https://bdnyc.s3.amazonaws.com/SpeX/Prism/TVLM+868-110639_2009-06-29.fits",
+            "original_spectrum": "https://s3.amazonaws.com/bdnyc/0500%2B0330.txt",
             "local_spectrum": "$BDNYC_spectra/optical_spectra/u20197.fits",
             "regime": "optical",
             "telescope": "KPNO 4m",

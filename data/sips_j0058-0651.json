@@ -202,8 +202,8 @@
     ],
     "Spectra": [
         {
-            "spectrum": "https://s3.amazonaws.com/bdnyc/0058-0651.txt",
-            "original_spectrum": null,
+            "spectrum": "https://bdnyc.s3.amazonaws.com/SpeX/Prism/2MASS+J06521977-2534505_2009-01-25.fits",
+            "original_spectrum": "https://s3.amazonaws.com/bdnyc/0058-0651.txt",
             "local_spectrum": "$BDNYC_spectra/SpeX/Prism/0058-0651.txt",
             "regime": "nir",
             "telescope": "IRTF",

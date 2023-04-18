@@ -246,8 +246,8 @@
     ],
     "Spectra": [
         {
-            "spectrum": "https://s3.amazonaws.com/bdnyc/SpeX/Prism/U10857_JHK_2008jan12.txt",
-            "original_spectrum": null,
+            "spectrum": "https://bdnyc.s3.amazonaws.com/SpeX/Prism/2MASS+J04510093-3402150_2012-09-27.fits",
+            "original_spectrum": "https://s3.amazonaws.com/bdnyc/SpeX/Prism/U10857_JHK_2008jan12.txt",
             "local_spectrum": "$BDNYC_spectra/SpeX/Prism/U10857_JHK_2008jan12.txt",
             "regime": "nir",
             "telescope": "IRTF",
@@ -259,8 +259,8 @@
             "other_references": null
         },
         {
-            "spectrum": "https://s3.amazonaws.com/bdnyc/optical_spectra/U10857_0953-1014.fits",
-            "original_spectrum": null,
+            "spectrum": "https://bdnyc.s3.amazonaws.com/SpeX/Prism/2MASS+J04510093-3402150_2012-09-27.fits",
+            "original_spectrum": "https://s3.amazonaws.com/bdnyc/SpeX/Prism/U10857_JHK_2008jan12.txt",
             "local_spectrum": "$BDNYC_spectra/optical_spectra/U10857_0953-1014.fits",
             "regime": "optical",
             "telescope": "Magellan II Clay",
