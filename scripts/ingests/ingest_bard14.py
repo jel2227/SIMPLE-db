@@ -1,7 +1,6 @@
 from scripts.ingests.ingest_utils import *
 from scripts.ingests.utils import *
 
-
 SAVE_DB = False # save the data files in addition to modifying the .db file
 RECREATE_DB = False  # recreates the .db file from the data files
 
