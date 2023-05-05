@@ -1,5 +1,6 @@
 from scripts.ingests.ingest_utils import *
 from scripts.ingests.utils import *
+from specutils import Spectrum1D
 
 SAVE_DB = False # save the data files in addition to modifying the .db file
 RECREATE_DB = False  # recreates the .db file from the data files
@@ -16,15 +17,21 @@ full = 'all'
 url = f'https://docs.google.com/spreadsheets/d/{SHEET_ID}/gviz/tq?tqx=out:csv&sheet={full}'
 data = pd.read_csv(url)
 
-
+link_error_list = []
 for index, row in data.iterrows():
     original_spectrum = row['Original Spectrum'] #row is defined so it loops through each row to
     spectrum_url = row['Spectrum'] #goes to specific column entry finds the url
     object_name = row['Source']
     with db.engine.begin() as conn:
         conn.execute(db.Spectra.update().where(db.Spectra.c.source == object_name).values(spectrum = spectrum_url ))
-        conn.execute(db.Spectra.update().where(db.Spinectra.c.source == object_name).values(original_spectrum = original_spectrum))
+        conn.execute(db.Spectra.update().where(db.Spectra.c.source == object_name).values(original_spectrum = original_spectrum))
 
     # WRITE THE JSON FILES
+    try:
+        spec=Spectrum1D.read(spectrum_url, format = 'tabular-fits')
+    except:
+        link_error_list.append((row['Source'],row['Spectrum']))
     if SAVE_DB:
         db.save_database(directory='data/')
+
+print(oops_list)
