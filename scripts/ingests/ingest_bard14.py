@@ -34,4 +34,4 @@ for index, row in data.iterrows():
     if SAVE_DB:
         db.save_database(directory='data/')
 
-print(oops_list)
+print(link_error_list)
